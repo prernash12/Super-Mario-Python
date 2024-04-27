@@ -1,10 +1,6 @@
 # Super Mario Implementation in Python
 ## Creator 
-Nirankar Nath Singh 
-Please Subscribe My Youtube channel 
-Name : Brain Flicks
-Link : https://www.youtube.com/nirankarnathsingh
-Instagram : https://www.instagram.com/bnirankar
+Prerna Kumari Shaw
 
 ## Running
 * $ pip install -r requirements.txt
@@ -28,6 +24,3 @@ Instagram : https://www.instagram.com/bnirankar
 * pygame	
 * scipy	
 
-## Contribution
-If you have any Improvements/Ideas/Refactors feel free to contact me or make a Pull Request.
-The code needs still alot of refactoring as it is right now, so I appreciate any kind of Contribution.
